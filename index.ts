@@ -6,4 +6,3 @@ const appDiv: HTMLElement = document.getElementById('app');
 appDiv.innerHTML = `<h3>TypeScript Starter</h3>
 <p>
 <h2>First TypeScript</h2>`;
-<a src='./readme.md'>
