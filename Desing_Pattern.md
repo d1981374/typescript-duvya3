@@ -14,6 +14,7 @@
 
 ###### 출판년도 2015년 3월 26일
 
-- `GoF`: Gang of Four
+- `GoF`(Gang of Four)
+- 추가한줄
 
 ---
