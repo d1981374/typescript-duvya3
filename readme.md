@@ -12,7 +12,7 @@
 - *GoF*(Gang of Four) : 저자 4명을 부르는 속어
 
 <img src="./XL.jpeg" width="150" height="200">
-[디자인패턴](./XL.jpeg)``````````````````````
+[디자인패턴](./XL.jpeg)
 
 ---
 ## 생성 패턴(Creation Patterns)
