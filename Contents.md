@@ -73,16 +73,16 @@
 ---
 ### Appendix A 용어정리
 ### Appendix B 표기법 가이드
-B.1 클래스 다이어그램
-B.2 객체 다이어그램
-B.3 상호작용 다이어그램
+- B.1 클래스 다이어그램
+- B.2 객체 다이어그램
+- B.3 상호작용 다이어그램
 
 ### Appendix C 예제 코드에 사용된 기본 클래스
-C.1 List
-C.2 Interator
-C.3 ListIterator
-C.4 Point
-C.5 Rect
+- C.1 List
+- C.2 Interator
+- C.3 ListIterator
+- C.4 Point
+- C.5 Rect
 
 #### 참고문헌
 #### 찾아보기
